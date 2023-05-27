@@ -1,16 +1,21 @@
-### Hi there 👋
+![read me banner](https://github.com/luxunator/luxunator/assets/50147562/e09a885c-db7f-45e7-8422-f85597db43a8)
 
-<!--
-**luxunator/luxunator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 About Me
+😄 Hello, I'm a self-taught software engineer with a deep passion for software engineering and ethical hacking. I spend my free time immersing myself in complex programming problems and getting past thrilling hacking challenges.
 
-Here are some ideas to get you started:
+:computer: Programming is my sandbox, and I enjoy exploring various domains and projects. From web development to creating microservices, I've dabbled in a wide range of technologies. The versatility of programming keeps me engaged and constantly learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:handshake: Collaboration is a cornerstone of my approach. I believe that working together with fellow developers is the key to unlocking greater achievements. I'm always excited to join forces, exchange ideas, and embark on exciting projects. 
+
+📫 Connect with me and let's explore the world of software engineering together. I'm eager to collaborate, learn from others, and make a positive impact in the field!
+
+# 🚀Featured Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luxunator&repo=htbgo)](https://github.com/luxunator/htbgo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luxunator&repo=evacrypt)](https://github.com/luxunator/evacrypt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luxunator&repo=google-domains-ddns-client)](https://github.com/luxunator/google-domains-ddns-client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luxunator&repo=dockerize)](https://github.com/luxunator/dockerize)
+
+# 📈Stats
+
+[![luxunators's GitHub stats-light](https://github-readme-stats.vercel.app/api?username=luxunator&show_icons=true&theme=graywhite&custom_title=Github%20Contribution%20Stats&title_color=2F2F2F&icon_color=47D4FF&rank_icon=github&include_all_commits=true&line_height=28&count_private=true#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=luxunator)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxunator&langs_count=10&card_width=500&custom_title=Used%20Languages&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=luxunator)
