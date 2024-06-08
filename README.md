@@ -21,5 +21,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxunator&langs_count=10&card_width=500&custom_title=Used%20Languages&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=luxunator)
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -1000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; background-size: contain; width: 100vw; opacity: 0.1; background: url('https://raw.githubusercontent.com/luxunator/luxunator/main/susto.gif');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -1000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; background-size: contain; width: 100vw; opacity: 0.1; background: url('https://raw.githubusercontent.com/luxunator/luxunator/main/menhera.gif');]{x0000}$}
 ```
