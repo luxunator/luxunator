@@ -19,3 +19,7 @@
 
 [![luxunators's GitHub stats-light](https://github-readme-stats.vercel.app/api?username=luxunator&show_icons=true&theme=graywhite&custom_title=Github%20Contribution%20Stats&title_color=2F2F2F&icon_color=47D4FF&rank_icon=github&include_all_commits=true&line_height=28&count_private=true#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=luxunator)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxunator&langs_count=10&card_width=500&custom_title=Used%20Languages&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=luxunator)
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -1000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; background-size: contain; width: 100vw; opacity: 0.1; background: url('https://raw.githubusercontent.com/luxunator/luxunator/main/background.jpg');]{x0000}$}
+```
